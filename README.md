@@ -1,2 +1,7 @@
-# demo-consultorios-dentales-versalles
-Demo web para CONSULTORIOS DENTALES VERSALLES — diseñada por eterlab.
+# CONSULTORIOS DENTALES VERSALLES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
